@@ -9,6 +9,9 @@
 ## **Informações sobre o Mantenedor**
 
 - Prof. Maurício Moreira Neto
+
 - Lattes: [Link para Currículo Lattes](http://lattes.cnpq.br/7534400645876830)
+  
 - E-mail: <maumneto@ufc.br>
+
 - Site: <http://lia.ufc.br/~maumneto/>
